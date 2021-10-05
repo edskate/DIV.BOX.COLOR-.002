@@ -1,0 +1,47 @@
+body{
+    box-shadow:  1px 3px 13px;
+    margin: 15%;
+    height: 23%;
+    font-size: 150%;
+  
+}
+
+.box1{
+    background-color: aqua;
+
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: aqua;
+}
+.box4{
+    background-color: aqua;
+}
+.box5{
+    background-color: aqua;
+}
+.box6{
+    background-color: aqua;
+}
+.box7{
+    background-color: chartreuse;
+}
+.box8{
+    background-color: aqua;
+}
+p{
+    box-shadow: 3px 3px 4px ;
+    text-align: center;
+}
+ul, li{
+    box-shadow:  3px 3px 3px #737;
+    text-shadow: 2px 3px 4px;
+
+}
+h1{
+    text-align: center;
+    box-shadow: 2px 3px 4px#737;
+    text-shadow:  2px 3px 4px ;
+}
